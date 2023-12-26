@@ -1,0 +1,11 @@
+@media (max-width: 744px) {
+  header {
+    padding-inline: 24px;
+  }
+  .section1 {
+    height: 320pxpx;
+  }
+  .section1_content h2 {
+    font-size: 36px;
+  }
+}

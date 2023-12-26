@@ -1,0 +1,15 @@
+@media (max-width: 375px) {
+  nav,
+  .img2 {
+    display: none;
+  }
+  .img3 {
+    display: block;
+  }
+  .section1 {
+    height: 240px;
+}
+.section1_content h2 {
+    font-size: 24px;
+  }
+}
